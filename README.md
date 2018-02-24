@@ -6,6 +6,8 @@
 
 #### JavaScript
 
+[Awesome Learning](https://github.com/micromata/awesome-javascript-learning)
+
 1. [ ] Basics
 	* [ ] [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	* [ ] [javascript.info](https://javascript.info/)
