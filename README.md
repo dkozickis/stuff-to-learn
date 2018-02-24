@@ -16,6 +16,7 @@
 4. [ ] React (w/ redux)
 5. [ ] Vue.JS
 6. [ ] WTF is the difference between 2-5
+7. [ ] [Functional Programming](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
 
 #### Databases
 
